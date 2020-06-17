@@ -7,3 +7,6 @@ This is to explain any purpose..!!
 ## Deployment
 
 ## How to contribute
+
+## copy right included
+adding something here
