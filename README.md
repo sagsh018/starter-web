@@ -12,3 +12,4 @@ adding somemore
 adding something here
 
 addiing line here from master branch
+adding another line from myfeature
