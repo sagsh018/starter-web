@@ -13,3 +13,4 @@ adding something here
 
 addiing line here from master branch
 adding another line from myfeature
+adding this line for stash example
